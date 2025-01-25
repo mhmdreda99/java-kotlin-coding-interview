@@ -1,3 +1,10 @@
+/**
+ * Service class to manage the game between two players.
+ *
+ * @property playerA The first player.
+ * @property playerB The second player.
+ * @constructor Creates a GameService with the specified players.
+ */
 package com.example.rps.application.service
 
 import com.example.rps.application.game.Game

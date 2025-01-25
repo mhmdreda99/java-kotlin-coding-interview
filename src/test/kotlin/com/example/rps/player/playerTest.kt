@@ -1,3 +1,6 @@
+/**
+ * Unit tests for the Player classes.
+ */
 package com.example.rps.domain.player
 
 import com.example.rps.domain.model.Move
